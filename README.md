@@ -1,0 +1,2 @@
+# netauto
+test git commands
